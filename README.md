@@ -4,7 +4,7 @@
 [http://35.200.179.153](http://35.200.179.153)
 
 To login as **_GRADER_** user in your system run
-`ssh grader@35.200.179.153 -p 2200 -i ssh/grader_key`
+`ssh grader@35.200.179.153 -p 2200 -i ~/.ssh/grader_key`
  > The `grader_key` file contains the private key.
 ---
 ### Summary of Softwares Installed
